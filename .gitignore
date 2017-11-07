@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+#OSX
+.DS_Store
+
+#compiled stuff out
+*.o
+*.so
+*.dll
